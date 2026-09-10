@@ -1,4 +1,6 @@
-## Decryptor for wyze outdoor base
+## Decrypter for wyze outdoor base
+
+Uses Windows Powershell
 
 Logs, once decrypted, should look like:
 
